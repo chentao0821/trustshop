@@ -1,0 +1,16 @@
+.gitignore
+# Node
+node_modules/
+dist/
+.env
+
+# TypeScript
+*.tsbuildinfo
+
+# Flutter / Dart
+**/.dart_tool/
+**/build/
+**/ios/Pods/
+**/.packages
+.idea/
+.vscode/
